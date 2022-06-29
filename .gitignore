@@ -1,0 +1,11 @@
+caches
+nginx
+certbot
+media
+opencv_haarcascade_data
+moja
+app/gunicorn*
+app/*sh
+__pycache__
+api/app/services/__pycache__/
+.tf_models
